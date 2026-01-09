@@ -26,7 +26,7 @@ function App() {
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
-        (Git-Easy counter deployed - Well done!)
+        (Git-updates-all-working)
       </p>
     </div>
   )
